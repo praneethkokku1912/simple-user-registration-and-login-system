@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background-image: url('.C:/Users/Praneeth/OneDrive/Desktop/project-app/src/images'); /* Adjust the path as necessary */
+  background-size: cover; /* Cover the entire container */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(140, 86, 86);
+}
